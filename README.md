@@ -1,4 +1,4 @@
-<p>This is a demo project built off of the John Lemon tutorial base.</p>
+<p>This is a demo project built off of the John Lemon tutorial base. The 'Palace' scene is where I am seeing the issues</p>
 
 <p>Custom elements:</p>
 <ul>
